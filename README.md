@@ -1,7 +1,7 @@
 # Contador infinito en java
-  Es un proyecto muy sencillo que realice en una materia llamada sistemas operativos en mi universidad, el cual tenia como objetivo interactuar con distintas interrupciones. 
+  Es un proyecto muy sencillo que desarrolle en una materia llamada sistemas operativos en mi universidad, el cual tenia como objetivo interactuar con distintas interrupciones. 
   
-  __Descripción__:
+  __Descripción:__
   
   El programa muestra una interfaz grafica que indica que tipo de interrupción que se ha activado para detener el contador infinito. 
   
