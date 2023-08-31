@@ -7,11 +7,11 @@
   
   Las interrupciones son: 
     
-    -Por tiempo de ejecución.
+  -Por tiempo de ejecución.
     
-    -Por teclado.
+  -Por teclado.
     
-    -Por límite del contador es decir por el número máximo del contador.
+  -Por límite del contador es decir por el número máximo del contador.
   
    Desarrollado en __Apache NetBeans__
 
